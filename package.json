@@ -1,0 +1,10 @@
+{
+  "urls": [
+    ["Lab8Toolbox/__init__.py", "github:fnakano/Lab8Toolbox/Lab8Toolbox/__init__.py"],
+    ["Lab8Toolbox/utils.py", "github:fnakano/Lab8Toolbox/Lab8Toolbox/utils.py"]
+  ],
+  "deps": [
+    ["collections-defaultdict", "latest"]
+  ],
+  "version": "0.1"
+}
